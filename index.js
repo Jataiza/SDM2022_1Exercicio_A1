@@ -50,4 +50,4 @@ app.post('/musica/{id}/{autor}/{genero}', (req, res) => {
 
 //http://localhost:3000
 app.listen(3000);
-
+console.log("Rodando o servidor");
